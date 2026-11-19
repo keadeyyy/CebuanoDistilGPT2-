@@ -1,0 +1,26 @@
+Held-out blocks: 1235 (scored first 200)
+Baseline perplexity  : 12.12
+Fine-tuned perplexity: 3.25
+
+===== GENERATIONS =====
+[BASE] Kumusta ka?
+
+
+I’m not sure if I’ve ever seen a movie that was made with a cast of actors. I‪m not really sure if it’s a movie I‬ve seen that was created with
+
+[BASE] Ang Cebu usa ka ka ka kap ka ka pa ka ka na ka ka ko ka ka ja ka ka ba ka ka ki ka ka Ka ka ka ke ka ka.
+
+
+The first time I was in the office, I was a little bit nervous.
+
+[BASE] Sa merkado, ang mga tawo, ang nga taktaktaka, ang kung kung takkaktaya, ang takka, ang pakka.
+
+
+The first time I saw a merkada, I was so excited
+
+[TUNED] Kumusta ka?    - X -   _   Oa nagat nagga nagagat.   — X - O R. P.   - X – O R,   − X - o R.
+
+[TUNED] Ang Cebu usa ka kapat kapata kapatsa kapati kapatan kapatin kapatra kapangat katat kata katata kata.    - X -   _   Oa
+
+[TUNED] Sa merkado, ang mga tawo, ang nga nga katayo.    - X -   _   Oa nga tayo nga.  .   — X - O R. P. Pang, ang kat
+
